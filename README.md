@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kgabel
-- 👀 I’m interested in perception and controls of autonoumous vehicles
+- 👀 I’m interested in perception and controls of autonomous vehicles
 
 <!---
 Kgabel/Kgabel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
